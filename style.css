@@ -4903,7 +4903,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: #5e5e5e;
+    color: #af6de6;
     background-color: transparent
 }
 
@@ -5013,7 +5013,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 
 .navbar-inverse .navbar-brand {
-    color: #777
+    color: rgb(192, 104, 233)
 }
 
 .navbar-inverse .navbar-brand:hover,
@@ -5435,7 +5435,7 @@ a.list-group-item.active>.badge,
     padding: 30px;
     margin-bottom: 30px;
     color: inherit;
-    background-color: rgb(114, 114, 114)
+    background-color: rgb(138, 138, 138)
 }
 
 .jumbotron h1,
@@ -5975,11 +5975,11 @@ a.list-group-item-danger.active:focus {
 
 .panel {
     margin-bottom: 20px;
-    background-color: #fff;
+    background-color: rgb(107, 107, 107);
     border: 1px solid transparent;
     border-radius: 4px;
     -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
-    box-shadow: 0 1px 1px rgba(0, 0, 0, .05)
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .10)
 }
 
 .panel-body {
@@ -6209,7 +6209,7 @@ a.list-group-item-danger.active:focus {
 }
 
 .panel-default {
-    border-color: #ddd
+    border-color: rgb(255, 255, 255)
 }
 
 .panel-default>.panel-heading {
